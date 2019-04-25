@@ -2,7 +2,7 @@
     "name": "mikechip/simplemongo",
     "description": "Simple middleware to work with MongoDB",
     "type": "library",
-    "license": "GNU GPL",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Boris Stelmakh",
