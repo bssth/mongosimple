@@ -14,7 +14,8 @@ or install it using Composer:
 
 Here's a cheatsheet for all methods:
 
-`<?php
+```
+<?php
     // Init composer
     require_once('vendor/autoload.php');
 
@@ -41,7 +42,8 @@ Here's a cheatsheet for all methods:
     print($db->count('users', []));
 
     // Delete user
-    $db->delete('users', ['login' => 'admin']);`
+    $db->delete('users', ['login' => 'admin']);
+```
     
 # Feedback
 
