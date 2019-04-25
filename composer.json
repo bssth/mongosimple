@@ -1,0 +1,19 @@
+{
+    "name": "mikechip/simplemongo",
+    "description": "Simple middleware to work with MongoDB",
+    "type": "library",
+    "license": "GNU GPL",
+    "authors": [
+        {
+            "name": "Boris Stelmakh",
+            "email": "mikael.chip@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.4",
+        "ext-mongodb": "^1.5"
+    },
+    "autoload": {
+        "classmap": ["src/MongoSimple.php"]
+    }
+}
