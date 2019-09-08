@@ -8,7 +8,7 @@ between MongoDB extension and your scripts.
 Just download *src/MongoSimple.php* script
 or install it using Composer:
 
-`composer require mikechip/mongosimple`
+`composer require mikechip/simplemongo`
 
 # Usage
 
